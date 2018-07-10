@@ -1,0 +1,26 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "teste node_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "willCruz",
+  "license": "ISC",
+  "dependencies": {
+    "alert-node": "^1.2.1",
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-static": "^1.2.5",
+    "express-validator": "^5.2.0",
+    "mongodb": "^3.1.0",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.5",
+    "npm": "^6.1.0",
+    "pg": "^7.4.3",
+    "server-static": "^2.0.5"
+  }
+}
